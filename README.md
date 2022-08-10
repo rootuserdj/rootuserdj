@@ -1,7 +1,7 @@
 
 
 <br/>
-<img alt="Coding"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img alt="Coding"  width="380" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <br/>
 
 
