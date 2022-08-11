@@ -1,7 +1,6 @@
 
 # HACK3RDJ
 
-
 <img alt="HACK3RDJ" src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif">
 
 # Codding
