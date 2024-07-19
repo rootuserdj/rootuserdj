@@ -4,8 +4,6 @@
 <img alt="HACK3RDJ" src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif">
 <br>
 <img alt="CEH" src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg">
-<br>
-<img alt="OSCP" src="https://github.com/rootuserdj/rootuserdj/blob/master/oscp.jpg">
 
 # Codding
 
