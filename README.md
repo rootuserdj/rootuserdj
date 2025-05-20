@@ -13,7 +13,7 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/rootuserdj">
-          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="450" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
         </a>
       </td>
       <td style="border: none;">
