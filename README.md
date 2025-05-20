@@ -12,12 +12,12 @@ Passionate Developer | CyberSecurity Enthusiast | CEH Certified
 <tr>
 <td style="border: none;">
 <a href="https://github.com/rootuserdj">
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="400" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 </td>
 <td style="border: none;">
 <a href="https://github.com/rootuserdj">
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="400" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 </td>
 </tr>
@@ -41,12 +41,12 @@ Passionate Developer | CyberSecurity Enthusiast | CEH Certified
 <h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">💻 Coding</h2>
 <div align="center">
 <p style="font-size: 1.2em; color: #666;">A Glimpse into my coding world</p>
-<img alt="Codding" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="600" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+<img alt="Codding" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="900" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 <h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">📇 Visiting Card</h2>
 <div align="center">
 <p style="font-size: 1.2em; color: #666;"> My Digital Visiting Card </p>
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/Screenshot_2022-08-11-01-44-59-05_4a5c017d345573e8ef682f0cf07146f7.jpg" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/Screenshot_2022-08-11-01-44-59-05_4a5c017d345573e8ef682f0cf07146f7.jpg" width="900" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 <hr style="border: 2px solid #3498db; border-radius: 5px; width: 70%; margin-top: 30px; margin-bottom: 30px;">
 <div align="center">
