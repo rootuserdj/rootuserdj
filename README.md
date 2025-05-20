@@ -1,5 +1,6 @@
-
-# HACK3RDJ
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+DJ" />
+</h1>
 
 <img alt="HACK3RDJ" src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif">
 <br>
