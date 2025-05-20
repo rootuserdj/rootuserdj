@@ -2,9 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+DJ" />
 </h1>
 
-<img alt="HACK3RDJ" src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif">
-<br>
-<img alt="CEH" src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg">
+<div align="center">
+  <img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="200"/>
+  <img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="200"/>
+</div>
+
+## 🛠️ Languages and Tools I Use
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 # Codding
 
