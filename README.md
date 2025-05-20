@@ -9,8 +9,9 @@
 
 ## 🛠️ Languages and Tools I Use
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=shell,python,javascript,firebase,mongodb,c,c++,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=shell,python,javascript,firebase,mongodb,c,mysql,flask" /><br>
+   <img src="https://skillicons.dev/icons?i=windows,linux,windows_server,firebase,mongodb,c,mysql,flask" /><br>
 </div>
 
 # Codding
