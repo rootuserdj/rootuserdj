@@ -1,13 +1,10 @@
 <div align="center" style="width: 100%;">
   <h1>
     <a href="https://github.com/rootuserdj" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=700&lines=Hello,+World!+I'm+DJ+(Root+User+DJ)" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=700&lines=Hello,+World!+I'm+Mr.+DJ" alt="Typing SVG" />
     </a>
   </h1>
 
-  <p>
-    <a href="https://github.com/rootuserdj" style="font-weight: bold; color: #0078d7; font-size: 1.2em;">DJ (Root User DJ)</a>
-  </p>
   <p style="font-size: 1.1em; color: #555;">
     Passionate Developer • Cybersecurity Enthusiast • CEH Certified
   </p>
@@ -16,12 +13,12 @@
     <tr>
       <td style="border: none;">
         <a href="https://github.com/rootuserdj">
-          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="300" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
         </a>
       </td>
       <td style="border: none;">
         <a href="https://github.com/rootuserdj">
-          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="300" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+          <img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
         </a>
       </td>
     </tr>
@@ -31,8 +28,8 @@
   <p style="font-size: 1.2em; color: #666;">Technologies I work with:</p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; width: 100%;">
-    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" height="50" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" height="50" />
+    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" height="55" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" height="55" />
   </div>
 
   <br />
