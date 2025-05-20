@@ -28,8 +28,8 @@
   <p style="font-size: 1.2em; color: #666;">Technologies I work with:</p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; width: 100%;">
-    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" height="55" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" height="55" />
+    <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" height="50" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" height="50" />
   </div>
 
   <br />
@@ -45,7 +45,7 @@
   <br />
   <h2 style="color: #3498db; font-size: 2em; font-weight: bold;">💻 Coding Life</h2>
   <p style="font-size: 1.2em; color: #666;">A glimpse into my coding world:</p>
-  <img alt="Coding Life" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="100%" style="max-width: 700px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
+  <img alt="Coding Life" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="70%" style="max-width: 600px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" />
 
   <hr style="border: 2px solid #3498db; border-radius: 5px; width: 70%; margin: 30px auto;" />
 
