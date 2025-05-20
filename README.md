@@ -1,56 +1,61 @@
 <div align="center">
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=600&lines=Hello,+World!+I'm+DJ+(Root+User+DJ)" />
+<a href="https://github.com/rootuserdj">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=700&lines=Hello,+World!+I'm+DJ+(Root+User+DJ)" />
+</a>
 </h1>
 <p>
-<a href="https://github.com/rootuserdj" style="font-weight: bold; color: #0078d7;">DJ (Root User DJ)</a>
+<a href="https://github.com/rootuserdj" style="font-weight: bold; color: #0078d7; font-size: 1.2em;">DJ (Root User DJ)</a>
+</p>
+<p style="font-size: 1.1em; color: #555;">
+Passionate Developer | CyberSecurity Enthusiast | CEH Certified
 </p>
 <table style="border: none; margin-left: auto; margin-right: auto;">
 <tr>
 <td style="border: none;">
 <a href="https://github.com/rootuserdj">
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/15667.gif" alt="HACK3RDJ" width="220" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 </td>
 <td style="border: none;">
 <a href="https://github.com/rootuserdj">
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/ceh.jpg" alt="CEH" width="220" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </a>
 </td>
 </tr>
 </table>
 </div>
-<h2 align="center" style="color: #3498db;">🛠️ Languages and Tools</h2>
+<h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">🛠️ Languages and Tools</h2>
 <div align="center">
-<p style="font-size: 16px;">Here are some of the languages and tools I'm proficient in:</p>
+<p style="font-size: 1.2em; color: #666;">Here are some of the languages and tools I'm proficient in:</p>
 <table style="border: none; margin-left: auto; margin-right: auto;">
 <tr>
 <td style="border: none;">
-<img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" style="margin: 10px;" />
 </td>
 <td style="border: none;">
-<img src="https://skillicons.dev/icons?i=windows,linux,bash,python,javascript,firebase,mongodb,c,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,python,javascript,firebase,mongodb,c,mysql,flask" style="margin: 10px;"/>
 </td>
 </tr>
 </table>
 </div>
-<h2 align="center" style="color: #3498db;">💻 Coding</h2>
+<h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">💻 Coding</h2>
 <div align="center">
-<p style="font-size: 16px;">A Glimpse into my coding world</p>
-<img alt="Codding" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+<p style="font-size: 1.2em; color: #666;">A Glimpse into my coding world</p>
+<img alt="Codding" src="https://github.com/rootuserdj/rootuserdj/blob/master/giphy.gif" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
-<h2 align="center" style="color: #3498db;">📇 Visiting Card</h2>
+<h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">📇 Visiting Card</h2>
 <div align="center">
-<p style="font-size: 16px;"> My Digital Visiting Card </p>
-<img src="https://github.com/rootuserdj/rootuserdj/blob/master/Screenshot_2022-08-11-01-44-59-05_4a5c017d345573e8ef682f0cf07146f7.jpg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+<p style="font-size: 1.2em; color: #666;"> My Digital Visiting Card </p>
+<img src="https://github.com/rootuserdj/rootuserdj/blob/master/Screenshot_2022-08-11-01-44-59-05_4a5c017d345573e8ef682f0cf07146f7.jpg" width="350" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
-<hr style="border: 2px solid #3498db; border-radius: 5px;">
+<hr style="border: 2px solid #3498db; border-radius: 5px; width: 70%; margin-top: 30px; margin-bottom: 30px;">
 <div align="center">
-<p style="font-size: 16px;">Feel free to connect with me!</p>
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;"/>
+<p style="font-size: 1.2em; color: #666;">Feel free to connect with me!</p>
+<a href="https://www.linkedin.com/in/your-linkedin-profile" style="margin-right: 15px;">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&fontSize=1.1em" />
 </a>
 <a href="https://twitter.com/your-twitter-profile">
-<img src="https://img.shields.io/badge/Twitter-Follow-lightblue?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-Follow-lightblue?style=for-the-badge&logo=twitter&logoColor=white&fontSize=1.1em" />
 </a>
 </div>
