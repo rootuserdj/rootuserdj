@@ -24,10 +24,10 @@
     <h2 align="center" style="color: #3498db; font-size: 2em; font-weight: bold;">🛠️ Languages and Tools</h2>
     <div align="center">
         <p style="font-size: 1.2em; color: #666; margin-bottom: 1em;">Here are some of the languages, tools, and OS I'm proficient in:</p>
-        <table style="border-collapse: collapse; margin-left: auto; margin-right: auto; width: 80%; max-width: 600px;">
+        <table style="border-collapse: collapse;  margin-left: auto; margin-right: auto; width: 80%; max-width: 600px;">
             <tr>
                 <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">
-                    <h3 style="margin-bottom: 0.5em; color: #2c3e50;">Languages & Tools</h3>
+                    <h3  style="margin-bottom: 0.5em; color: #2c3e50;">Languages & Tools</h3>
                     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
                         <img src="https://skillicons.dev/icons?i=django,bootstrap,html,css,vscode,github,figma,tailwind,git" style="margin: 5px; height: 50px;" />
                         <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,mysql,flask" style="margin: 5px; height: 50px;" />
@@ -36,7 +36,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">
-                    <h3 style="margin-bottom: 0.5em; color: #2c3e50;">Operating Systems</h3>
+                    <h3  style="margin-bottom: 0.5em; color: #2c3e50;">Operating Systems</h3>
                     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
                         <img src="https://skillicons.dev/icons?i=windows" style="margin: 5px; height: 50px;" />
                         <img src="https://skillicons.dev/icons?i=linux" style="margin: 5px; height: 50px;" />
