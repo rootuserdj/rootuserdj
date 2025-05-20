@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=700&lines=Hello,+World!+I'm+Mr.+DJ" />
 </a>
 </h1>
-
 <p style="font-size: 1.1em; color: #555;">
 Passionate Developer | CyberSecurity Enthusiast | CEH Certified
 </p>
